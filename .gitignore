@@ -8,7 +8,7 @@ config/configBasic.js
 node_modules/
 dist/
 public/
-.env
+# .env
 .vscode
 
 # Compiled Java class files
