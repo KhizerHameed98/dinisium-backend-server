@@ -4,12 +4,12 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 # Node artifact files
-config/configBasic.js
+# config/configBasic.js
 node_modules/
-dist/
-public/
+# dist/
+# public/
 # .env
-.vscode
+# .vscode
 
 # Compiled Java class files
 *.class
@@ -24,8 +24,8 @@ public/
 *.jar
 
 # Maven
-target/
-dist/
+# target/
+# dist/
 
 # JetBrains IDE
 .idea/
